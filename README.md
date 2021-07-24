@@ -1,2 +1,3 @@
 # jhonathantorres.ghithub.io
-mi protafolio de prueba
+mi protafolio para el hosting del alumno jhonathan torres
+
